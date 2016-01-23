@@ -1,2 +1,2 @@
-# LottryApp
-J2ME lottry application
+# LotteryApp
+J2ME lottery application
